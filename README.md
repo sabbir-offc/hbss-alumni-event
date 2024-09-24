@@ -27,16 +27,13 @@ The goal of this project is to create a web-based registration platform for both
 - **Frontend:**
   - HTML5
   - CSS3 (Tailwind CSS)
-  - JavaScript 
+  - JavaScript
   - React JS
-  
 - **Backend:**
-  - Node.js 
-  - Express.js 
-  
+  - Node.js
+  - Express.js
 - **Database:**
-  - MongoDB 
-  
+  - MongoDB
 - **Other Tools:**
   - Git (version control)
   - Netlify/Vercel/Firebase (for hosting)
@@ -48,11 +45,12 @@ The goal of this project is to create a web-based registration platform for both
 - Node.js installed
 - Git installed
 - MongoDB account
-  
+
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sabbir-offc/hbss-reunion.git
-   cd alumni-event
+   git clone https://github.com/sabbir-offc/hbss-alumni-event.git
+   cd hbss-alumni-event
+   ```
